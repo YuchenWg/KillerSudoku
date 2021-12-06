@@ -1,7 +1,7 @@
 # KillerSudoku
 Python project that creates, visualizes and solves Killer Sudokus
 
-![alt text](https://github.com/YuchenWg/KillerSudoku/blob/main/killersudoku.png?raw=true)
+![alt text](https://github.com/YuchenWg/KillerSudoku/blob/main/killerSudoku.png?raw=true)
 
 ## Installation requirements ##
 
