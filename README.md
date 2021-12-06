@@ -9,6 +9,6 @@ Python project that creates, visualizes and solves Killer Sudokus
 * Requires the Turtle graphics library
 
 ##  Instructions ##
-To generate a killer Sudoku
+To generate a killer Sudoku:
 * Navigate to the directory containing *createKillerSudokuGame.py* 
 * Run *python createKillerSudokuGame.py*
